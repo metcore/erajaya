@@ -18,4 +18,6 @@ This project using laravel 8.0, visit the repo for get information about laravel
 <code> php artisan migrate</code>
 - run 
  <code> php artisan migrate:seed</code> & <code>php artisan db:seed --class=UserSeeder</code> This is will generated user super admin
-
+- Login 
+ User : superadmin@hello.world pass : superadmin
+ 
