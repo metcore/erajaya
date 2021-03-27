@@ -15,7 +15,7 @@ This project using laravel 8.0, visit the repo for get information about laravel
 - Run Composer update
 - Rename .env.example to .env and Set .env to your server configuration
 - run 
-<code> php artisan migrate </code>
+<code> php artisan migrate</code>
 - run 
- <code> php artisan migrate:seed </code> This is will generated user super admin
+ <code> php artisan migrate:seed</code> & <code>php artisan db:seed --class=UserSeeder</code> This is will generated user super admin
 
